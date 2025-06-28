@@ -7,13 +7,18 @@
 ## Cozyhouse
 가구, 인테리어 쇼핑몰 웹사이트
 
--개발기간
+###개발기간
 
--기술스택
+2000.00.01. ~ 2000.00.00.
+
+###기술스택
+
 JS, CSS, HTML, Spring boot, MySQL
 
--주요기능
+###주요기능
+
 회원가입, 로그인, 상품검색, 상품CRUD, 댓글기능 등
 
--세부사항
+###세부사항
+
 [CozyHouse Repository](https://github.com/YeopJ/Cozyhouse)
