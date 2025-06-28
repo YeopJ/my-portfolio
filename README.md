@@ -3,6 +3,8 @@
 
 프로젝트들에 대해 간단히 소개하고 있습니다. 자세한 사항은 링크에 작성되어 있습니다.
 
+---
+
 # Projects
 
 ## 🛏️ Cozyhouse
@@ -17,3 +19,4 @@
 - 세부사항
 
   - [CozyHouse Repository](https://github.com/YeopJ/Cozyhouse)
+---
